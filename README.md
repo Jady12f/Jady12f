@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Jady12f, dime whis.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jeydi, dime Whis.
+- 👀 I’m interested in desarrollar programas para la mejora la vida del ser humano.
+- 🌱 I’m currently learning Python,kali Linux.
+- 💞️ I’m looking to collaborate on investigaciones de Desarrollo de Sofware.
+- 📫 How to reach me ...Aun lo estoy pensando.
+- LIBEREN SUS MENTES.
 
 <!---
 Jady12f/Jady12f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
